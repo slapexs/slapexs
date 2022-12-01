@@ -15,7 +15,3 @@ Most of the time, I like to develop _websites_. But now I'm interested in analyz
 ### Contents
 
 - [My tools](https://github.com/slapexs/slapexs/blob/main/mytools.md)
-
-### Stat
-
-![Slapexs's github stats](https://github-readme-stats.vercel.app/api?username=slapexs&theme=tokyonight)
