@@ -13,7 +13,7 @@
 
 Hey there! I'm a newbie front-end developer and part-time Buffet hunter lol. I'm diving into React with TypeScript to write cleaner and more scalable code. Oh, and one fun phrase that inspires me: "Thamma Thae MaiMi KhamWa Plopchai" GG
 
-![](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
+![meascat](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 ### Contents
 
